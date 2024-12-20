@@ -65,35 +65,9 @@ streamlit run app.py
 
 ---
 
-## Project Architecture
-```
-mark-chatbot/
-├── app.py                 # Primary application script with Streamlit integration
-├── requirements.txt       # Dependency specification file
-├── .env                   # Environment variable configuration (not included in version control)
-├── README.md              # Project documentation
-├── modules/               # Custom modular components
-└── utils/                 # Utility scripts for ancillary operations
-```
-
----
-
 ## Contribution Protocols
 MARK welcomes contributions from the developer community. To contribute:
 - Fork the repository and create a feature branch.
 - Follow modular programming principles to ensure maintainability.
 - Submit a pull request with comprehensive documentation and test cases.
 
----
-
-## Licensing
-This project is licensed under the MIT License. Please review the LICENSE file for terms and conditions.
-
----
-
-## Advanced Support
-For in-depth technical support or collaboration inquiries, please contact the core development team at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Thank you for utilizing MARK, a benchmark in conversational AI excellence.
